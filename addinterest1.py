@@ -13,3 +13,4 @@ def main():
     amount = addInterest(amount, rate)
     print(amount)
 main()
+
